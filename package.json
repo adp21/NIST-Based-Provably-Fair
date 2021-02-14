@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
     "nist-randomness-beacon": "^2.0.4"
   }
 }

@@ -1,7 +1,7 @@
 //How to verify numbers generated are legit
 
-var localRandomValue = "" //Replace x with flocalRandomValue from nist at the given time
-var totalItems = 0; //Replace this value with the total number of items to choose from
+var localRandomValue = "6C858F2667876A660F3521F39ABCD264AB85EB77CFD77F884C4FE9DCEFD97E6B11B7BEF79955A6A270CFA8B5772899301C9985F7C32CBD7ECBF272EA886E580C" //Replace x with flocalRandomValue from nist at the given time
+var totalItems = 7; //Replace this value with the total number of items to choose from
 
 
 generateItem(localRandomValue, totalItems);
